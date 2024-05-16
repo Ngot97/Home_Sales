@@ -11,7 +11,7 @@ In this challenge, you'll use your knowledge of SparkSQL to determine key metric
 - Download the following files to help you get started:
 - Module 22 Challenge filesLinks to an external site.
 
-# Instructions:
+# Instructions
 
 1. Rename the Home_Sales_starter_code.ipynb file as Home_Sales.ipynb.
 2. Import the necessary PySpark SQL functions for this assignment.
